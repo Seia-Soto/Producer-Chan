@@ -1,5 +1,5 @@
 module.exports = {
-  infrom: require('./inform'),
+  inform: require('./inform'),
   error: require('./error'),
   extended: require('./extended')
 }

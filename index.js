@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+
 const buffer = require('buffer')
 const chalk = require('chalk')
 const child_process = require('child_process')
